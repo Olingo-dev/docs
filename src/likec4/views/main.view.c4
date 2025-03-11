@@ -1,0 +1,6 @@
+views {
+    view main {
+        title 'Overview'
+        include *
+    }
+}

@@ -1,0 +1,6 @@
+model {
+    actor = user
+    olingo = system 
+    
+    actor -> olingo
+}

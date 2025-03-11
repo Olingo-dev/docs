@@ -1,5 +1,14 @@
 {
     "name": "Olingo docs",
     "image": "mcr.microsoft.com/devcontainers/typescript-node:22",
-    "postCreateCommand": "pnpm install"
+    "postCreateCommand": "pnpm install",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "astro-build.astro-vscode",
+                "unifiedjs.vscode-mdx",
+                "likec4.likec4-vscode"
+            ]
+        }
+    }
 }
