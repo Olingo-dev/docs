@@ -1,0 +1,10 @@
+README.md
+node_modules
+.devcontainer
+.vscode
+.git
+.gitignore
+*.md
+dist
+.cache
+.DS_Store
