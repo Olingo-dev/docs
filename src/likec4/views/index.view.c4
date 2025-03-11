@@ -1,5 +1,5 @@
 views {
-    view main {
+    view index {
         title 'Overview'
         include *
     }
